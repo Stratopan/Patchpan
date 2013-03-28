@@ -1,4 +1,4 @@
-PatchPAN
+Patchpan
 ========
 
 Where old code gets a new life
